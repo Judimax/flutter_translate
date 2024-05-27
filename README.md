@@ -1,3 +1,7 @@
+# Windmillcode Flutter Translate
+
+main is production branch dev is development branch
+
 
 [<img src="https://github.com/Jesway/flutter_translate/raw/master/resources/images/flutter_translate.png" />](https://github.com/Jesway/flutter_translate/)
 
@@ -21,8 +25,8 @@ It lets you define translations for your content in different languages and swit
 
 * Very easy to use
 * ```Mobile```, ```Web``` and ```Desktop``` support
-* ```Pluralization``` and ```Duals``` support 
-* Supports both ``languageCode (en)`` and ``languageCode_countryCode (en_US)`` locale formats 
+* ```Pluralization``` and ```Duals``` support
+* Supports both ``languageCode (en)`` and ``languageCode_countryCode (en_US)`` locale formats
 * Automatically ```save & restore``` the selected locale [with a simple implementation](https://github.com/Jesway/flutter_translate/wiki/2.-Automatically-saving-&-restoring-the-selected-locale)
 * Full support for ```right-to-left``` locales
 * ``Fallback`` locale support in case the system locale is unsupported
